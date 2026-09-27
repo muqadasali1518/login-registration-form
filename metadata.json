@@ -1,0 +1,6 @@
+{
+  "name": "PulseAuth & Mobile Dashboard",
+  "description": "Clean, responsive mobile authentication system featuring robust login and registration forms with real-time validation, password strength meters, and an interactive mobile dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
